@@ -1,6 +1,6 @@
 ---
 markmap:
-  # initialExpandLevel: 1
+  initialExpandLevel: 1
   # maxWidth: 300
   colorFreezeLevel: 2
   color:
