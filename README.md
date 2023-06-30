@@ -1,6 +1,6 @@
 ---
 markmap:
-  # initialExpandLevel: 1
+  initialExpandLevel: 1
   # maxWidth: 300
   colorFreezeLevel: 2
   color:
@@ -89,7 +89,7 @@ markmap:
 - [Tome](https://tome.app/)
   - → [Ausprobieren](https://tome.app/van-laar)
 - [Decktopus](https://www.decktopus.com/)
-  - [Ausprobieren](https://app.decktopus.com/dashboard/decks)
+  - → [Ausprobieren](https://app.decktopus.com/dashboard/decks)
 - [Beautiful.ai](https://www.beautiful.ai/)
   - → [Ausprobieren](https://www.beautiful.ai/library/owned_by_me)
 
@@ -154,7 +154,7 @@ markmap:
 - Videopbearbeitung per Text-Prompt
 - Automatisierte Videopersonalisierung
 
-#### Beispiele dafür, was derzeit machbar ist
+#### Beispiele dafür,<br>was derzeit machbar ist
 
 - [„Synthetic Summer“](https://www.privateisland.tv/home/synthetic-summer) (wahrscheinlich mit Gen-2 generiert)
 - [Zeroscope-Beispielvideo 1](https://twitter.com/pharmapsychotic/status/1673825814906048512)
@@ -238,7 +238,8 @@ markmap:
   - → [Ausprobieren](https://labs.openai.com/)
 - [Adobe Firefly](https://firefly.adobe.com/)
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
-- [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild) (Stable Diffusion?)
+- [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)<br><small>(Stable Diffusion?)</small>
+- [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
   - → [Ausprobieren](https://app.zyngai.com/)
 
