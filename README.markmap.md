@@ -37,10 +37,10 @@ markmap:
 
 ### ML-Lernmethoden<br>und -Anwendungen
 
-- *Lernmethode:* Überwachtes Lernen<br>(🡪 labeled Data notwendig)
-  - *Anwendung:* z. B. Klassifikation (🡪 diskrete Ergebnismenge)
-  - *Anwendung:* z. B. Regression (🡪 stetige Ergebnismenge)
-- *Lernmethode:* Unüberwachtes Lernen<br>(🡪 unlabeled Data ausreichend)
+- *Lernmethode:* Überwachtes Lernen<br>(→ labeled Data notwendig)
+  - *Anwendung:* z. B. Klassifikation (→ diskrete Ergebnismenge)
+  - *Anwendung:* z. B. Regression (→ stetige Ergebnismenge)
+- *Lernmethode:* Unüberwachtes Lernen<br>(→ unlabeled Data ausreichend)
   - *Anwendung:* z. B. Clustering
   - *Anwendung:* z. B. Dimensionsreduktion
 - *Lernmethode:* Bestärkendes Lernen
@@ -50,8 +50,8 @@ markmap:
 
 - Generative Adversarial Networks (GAN)
   - Bestandteile
-    - Generator 🡪 erstellt neue Inhalte, die den Quelldaten ähneln
-    - Diskriminator 🡪 bewertet die erzeugten Inhalte
+    - Generator → erstellt neue Inhalte, die den Quelldaten ähneln
+    - Diskriminator → bewertet die erzeugten Inhalte
   - Gegenseitiges Spiel: Generator versucht Diskriminator zu täuschen
 - Transformatoren
   - Beispiele: GPT-4, LLaMA, BERT, Wu-Dao
@@ -60,8 +60,8 @@ markmap:
 - Variational Autoencoder
   - Oft für Bildgenerierung eingesetzt (z. B. in Stable Diffusion)
   - Bestandteile
-    - Encoder 🡪 vereinfacht komplizierte Daten<br>*(Anschaulicher Vergleich: Maler 1 erstellt eine Reihe<br>einfacher Skizzen einer Szene)*
-    - Decoder 🡪 versucht, Originaldaten aus den vom<br>Encoder vereinfachten Daten zu rekonstruieren<br>*(Anschaulicher Vergleich: Maler 2 wählt eine dieser<br>Skizzen aus und versucht, daraus ein Bild zu malen,<br>das die Originalszene möglichst genau abbildet, ohne<br>jedoch die Originalszene selbst zu kennen)*
+    - Encoder → vereinfacht komplizierte Daten<br>*(Anschaulicher Vergleich: Maler 1 erstellt eine Reihe<br>einfacher Skizzen einer Szene)*
+    - Decoder → versucht, Originaldaten aus den vom<br>Encoder vereinfachten Daten zu rekonstruieren<br>*(Anschaulicher Vergleich: Maler 2 wählt eine dieser<br>Skizzen aus und versucht, daraus ein Bild zu malen,<br>das die Originalszene möglichst genau abbildet, ohne<br>jedoch die Originalszene selbst zu kennen)*
 - Denoising Diffusion Models
   - Oft für Bildgenerierung eingesetzt (z. B. in Stable Diffusion)
   - Trainingsprinzip
@@ -87,63 +87,63 @@ markmap:
 #### Tools
 
 - [Tome](https://tome.app/)
-  - 🡪 [Ausprobieren](https://tome.app/van-laar)
+  - → [Ausprobieren](https://tome.app/van-laar)
 - [Beautiful.ai](https://www.beautiful.ai/)
-  - 🡪 [Ausprobieren](https://www.beautiful.ai/library/owned_by_me)
+  - → [Ausprobieren](https://www.beautiful.ai/library/owned_by_me)
 
 ### Audio
 
 #### Anwendungsfälle
 
-- Text 🡪 Sprache
-- Sprache 🡪 Text
-- Text 🡪 Musik
-- Musik 🡪 Musik
+- Text → Sprache
+- Sprache → Text
+- Text → Musik
+- Musik → Musik
 - Audiobearbeitung<br><small>z. B. Hintergrundgeräusche entfernen, automatische Optimierung</small>
 
 #### Tools
 
 - [ElevenLabs](https://beta.elevenlabs.io/)
-  - 🡪 [Ausprobieren](https://beta.elevenlabs.io/speech-synthesis)
+  - → [Ausprobieren](https://beta.elevenlabs.io/speech-synthesis)
 ##### Musikgenerierung
 
 - [MusicGen](https://github.com/facebookresearch/audiocraft)
--  🡪 [Ausprobieren](https://huggingface.co/spaces/facebook/MusicGen)
+-  → [Ausprobieren](https://huggingface.co/spaces/facebook/MusicGen)
 - [AIVA](https://www.aiva.ai/)
-  - 🡪 [Ausprobieren](https://creators.aiva.ai/)
+  - → [Ausprobieren](https://creators.aiva.ai/)
 - 😉 [Voicemod](https://www.voicemod.net/text-to-song/)<br><small>„Your musical meme machine“</small>
 
 ### Video
 
 #### Anwendungsfälle
 
-- Text-Prompt 🡪 Video
-- Video 🡪 Video
-- Kombination aus Video- und Bild-/Text-Prompt 🡪 Video
+- Text-Prompt → Video
+- Video → Video
+- Kombination aus Video- und Bild-/Text-Prompt → Video
 - Videopbearbeitung per Text-Prompt
 
 #### Tools
 
-##### Text Prompt 🡪 Video
+##### Text Prompt → Video
 
 - [Runway Gen-2](https://runwayml.com/ai-magic-tools/gen-2/)
-  - 🡪 [Ausprobieren](https://app.runwayml.com/video-tools/teams/MichaelvanLaar/assets)
+  - → [Ausprobieren](https://app.runwayml.com/video-tools/teams/MichaelvanLaar/assets)
 - [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)
   - [Beispielvideo 1](https://twitter.com/pharmapsychotic/status/1673825814906048512)
   - [Beispielvideo 2](https://twitter.com/cerspense/status/1672365482454958080)
   - [Beispielvideo 3](https://twitter.com/veryVANYA/status/1673695807147585538)
   - [Beispielvideo 4](https://twitter.com/dotsimulate/status/1673780493848805379)
   - [Beispielvideo 5](https://www.reddit.com/r/aivideo/comments/14kikmr/just_walking_through_the_ages/)
-  - 🡪 [Ausprobieren](https://huggingface.co/spaces/fffiloni/zeroscope)
+  - → [Ausprobieren](https://huggingface.co/spaces/fffiloni/zeroscope)
 - [Kaiber](https://kaiber.ai/)
-  - 🡪 [Ausprobieren](https://kaiber.ai/dashboard)
+  - → [Ausprobieren](https://kaiber.ai/dashboard)
 - [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
-  - 🡪 [Ausprobieren](https://studio.d-id.com/)
+  - → [Ausprobieren](https://studio.d-id.com/)
 
-##### Video 🡪 Video
+##### Video → Video
 
 - [Runway Gen-1](https://runwayml.com/ai-magic-tools/gen-1/)<br><small>Modifizierung von Referenz-Videos mithilfe eines Referenz-Bildes oder eines Text-Prompts</small>
-  - 🡪 [Ausprobieren](https://app.runwayml.com/video-tools/teams/MichaelvanLaar/assets)
+  - → [Ausprobieren](https://app.runwayml.com/video-tools/teams/MichaelvanLaar/assets)
 
 ##### Videobearbeitung
 
@@ -156,24 +156,24 @@ markmap:
 
 #### Anwendungsfälle
 
-- Text-Prompt 🡪 3D-Modell
-- Text-Prompt 🡪 Textur
-- 2D-Bild 🡪 3D-Modell
-- 2D-Bild 🡪 3D-Textur
+- Text-Prompt → 3D-Modell
+- Text-Prompt → Textur
+- 2D-Bild → 3D-Modell
+- 2D-Bild → 3D-Textur
 - Ggf. demnächst Alternative zum klassischen finalen Rendern von (Roh-)Modellen (inkl. Texturen, Beleuchtung usw.)
 
 #### Tools
 
 - [Meshy](https://www.meshy.ai/)
-  - 🡪 [Ausprobieren](https://discord.com/channels/1080050109062058044/1083607466719330334)
+  - → [Ausprobieren](https://discord.com/channels/1080050109062058044/1083607466719330334)
 
 ### Bilder<br>(Pixelgrafiken)
 
 #### Anwendungsfälle
 
-- Text-Prompt 🡪 Bild
-- Bild 🡪 Bild
-- Kombination aus Bild- und Text-Prompt 🡪 Bild
+- Text-Prompt → Bild
+- Bild → Bild
+- Kombination aus Bild- und Text-Prompt → Bild
 - Bildbearbeitung per Text-Prompt
 
 #### Tools
