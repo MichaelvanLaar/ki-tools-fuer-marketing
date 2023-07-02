@@ -118,6 +118,8 @@ markmap:
 
 ##### Sprache → Text
 
+- [Happy Scribe](https://www.happyscribe.com/de)<br><small>Untertitel und Transkription für Videos</small>
+  - → [Ausprobieren](https://www.happyscribe.com/v2/2846538/folders/2778948)
 - [AudioPen](https://audiopen.ai/)<br><small>Audiotranskription + automatisches „Aufräumen“ und Zusammenfassen</small>
 
 ##### Sprache → Sprache (Übersetzung)
