@@ -122,9 +122,13 @@ markmap:
   - → [Ausprobieren](https://www.happyscribe.com/v2/2846538/folders/2778948)
 - [AudioPen](https://audiopen.ai/)<br><small>Audiotranskription + automatisches „Aufräumen“ und Zusammenfassen</small>
 
-##### Sprache → Sprache (Übersetzung)
+##### Sprache → Sprache
 
 - [CloneDub](https://www.clonedub.com/)<br><small>(funktioniert noch nicht wirklich gut)</small>
+- [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc)<br><small>Stimmenaustausch, teilweise in Echtzeit, gern verwendet für Gesang</small>
+  - [Celebrity Voice Models](https://huggingface.co/QuickWick/Music-AI-Voices/tree/main)
+  - [Celebrity Voice Models](https://huggingface.co/marcoc2/so-vits-svc-4.0-models/tree/main)
+
 
 ##### Musikgenerierung
 
@@ -137,7 +141,12 @@ markmap:
 - [MusicGen](https://github.com/facebookresearch/audiocraft)
   - → [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/facebook/MusicGen)
   - → [Ausprobieren bei MusicGen-Looper](https://replicate.com/andreasjansson/musicgen-looper)
+- [The Watson Beat](https://github.com/cognitive-catalyst/watson-beat)<br><small>KI-Modell erstellt aus einer einfachen Melodie und Stilanweisungen<br>eine komplette Komposition inkl. Arrangement für mehrere Instrumente</small>
+  - [Audio-Beispiele](https://www.youtube.com/watch?v=Z5ymVzTUU6Y)
+- [DeepComposer](https://aws.amazon.com/de/deepcomposer/)<br><small>Grundprinzip wie bei The Watson Beat, aber umgesetzt als Keyboard<br>(Hardware) mit direktem Anschluss an KI-Modelle in der AWS-Cloud</small>
+  - [Demo-Video von 2019](https://www.youtube.com/watch?v=XH2EbK9dQlg&t=453s)
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)<br><small>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)<br>→ „Story Mode“ sieht für Video-Soundtracks sehr vielversprechend aus</small>
+- [Synthesizer V](https://dreamtonics.com/synthesizerv/)<br><small>Generierung von künstlichen Gesangsstimmen, die echte Texte singen</small>
 - 😉 [Image to Music](https://huggingface.co/spaces/fffiloni/img-to-music)
 - 😉 [Voicemod](https://www.voicemod.net/text-to-song/)<br><small>„Your musical meme machine“</small>
 
@@ -145,6 +154,7 @@ markmap:
 
 - [DeRoom](https://www.accentize.com/deroom/)<br><small>(kommt in fast allen sepp.med-Videos im Einsatz)</small>
 - [DialogueEnhance](https://www.accentize.com/dialogueenhance/)<br><small>(kommt in fast allen sepp.med-Videos im Einsatz)</small>
+- [TuneFlow](https://tuneflow.com/)<br><small>kostenlose DAW mit einer Reihe eingebauter KI-Funktionen</small>
 
 ### Video
 
@@ -178,6 +188,8 @@ markmap:
 - [Teach-O-Matic](https://www.teachomatic.net/)<br><small>*„Create AI how-to videos from text instructions. It runs on Replicate, LangChain, and GPT-4.“*</small>
 - [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
   - → [Ausprobieren](https://studio.d-id.com/)
+- [Fliki](https://fliki.ai/)<br><small>Videos aus Text-to-Speech-Audiospuren und Stock-Videoclips oder Bildern zusammenbauen</small>
+  - [Ausprobieren](https://app.fliki.ai/files)
 
 ##### Video → Video
 
@@ -191,6 +203,8 @@ markmap:
 
 ##### Videobearbeitung
 
+- [vidyo.ai](https://vidyo.ai/)<br><small>„Make short videos from long ones instantly“</small>
+  - [Ausprobieren](https://app.vidyo.ai/home)
 - [Runway Video Inpainting](https://runwayml.com/inpainting/)<br><small>unerwünschte (auch bewegte!) Objekte aus Videos entfernen</small>
 - Adobe Premiere Pro (Beta)<br><small>Videoschnitt per Transkript</small>
 
@@ -233,17 +247,19 @@ markmap:
   - [Dokumentation](https://docs.midjourney.com/)
 - [Stable Diffusion](https://stability.ai/stablediffusion)
   - → [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
-  - → [Ausprobieren bei RunDiffusion](https://app.rundiffusion.com/)
+  - → [Ausprobieren (inkl. ControlNet) bei RunDiffusion](https://app.rundiffusion.com/)
   - → [Ausprobieren bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
 - [DALL·E](https://openai.com/dall-e-2)
   - → [Ausprobieren](https://labs.openai.com/)
 - [Adobe Firefly](https://firefly.adobe.com/)
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
-- [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)<br><small>(Stable Diffusion?)</small>
+- [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
   - → [Ausprobieren](https://app.zyngai.com/)
+- [InsightFace face swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
+  - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
 
 ##### Utilities
 
