@@ -215,7 +215,7 @@ markmap:
 
 - [Maverick](https://www.trymaverick.com/)
 
-#### [Anleitung: Kurzfilm erstellen mit einer Kombination mehrerer Tools](https://www.youtube.com/watch?v=5kBxR-kliXc)
+#### [Anleitung: Kurzfilm erstellen mit<br>einer Kombination mehrerer Tools](https://www.youtube.com/watch?v=5kBxR-kliXc)
 
 ### 3D-Modelle
 
