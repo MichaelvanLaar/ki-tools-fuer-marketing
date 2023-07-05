@@ -12,4 +12,4 @@ jobs:
         host: ${{ secrets.REMOTE_HOST }}
         username: ${{ secrets.REMOTE_USER }}
         key: ${{ secrets.SSH_KEY }}
-        script: ${{ secrets.REMOTE_PATH }} && git pull
+        script: cd ${{ secrets.REMOTE_PATH }} && git pull
