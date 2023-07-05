@@ -132,6 +132,9 @@ markmap:
 
 ##### Musikgenerierung
 
+- [Splash](https://www.splashmusic.com/)
+  - → [BeatBot ausprobieren](https://beatbot.fm/)
+  - → [Splash Pro ausprobieren](https://pro.splashmusic.com/)
 - [Mubert](https://mubert.com/)
   - → [Ausprobieren](https://mubert.com/render)
 - [AIVA](https://www.aiva.ai/)
@@ -243,7 +246,7 @@ markmap:
 ##### Bildgenerierung
 
 - [Midjourney](https://www.midjourney.com/)
-  - → [Ausprobieren](https://discord.com/channels/@me/1054540775469355008)
+  - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
   - [Dokumentation](https://docs.midjourney.com/)
 - [Stable Diffusion](https://stability.ai/stablediffusion)
   - → [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
@@ -260,6 +263,15 @@ markmap:
   - → [Ausprobieren](https://app.zyngai.com/)
 - [InsightFace face swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
   - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
+
+##### Bildbearbeitung
+- [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
+- [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt in Discord in Vektorgrafiken umwandeln lassen</small>
+  - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
+- [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
+  - → [Ausprobieren](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
+  - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
+  - [Anleitungsvideo fürs Ausprobieren](https://www.youtube.com/watch?v=ud6k0AVzw4M)
 
 ##### Utilities
 
