@@ -166,10 +166,10 @@ markmap:
 - Text-Prompt → Video
 - Video → Video
 - Kombination aus Referenz-Video und Bild-/Text-Prompt → Video
-- Videopbearbeitung per Text-Prompt
+- Videobearbeitung per Text-Prompt
 - Automatisierte Videopersonalisierung
 
-#### Beispiele dafür,<br>was derzeit machbar ist
+#### Beispiele dafür, was mit Text-to-<br>Video-Tools derzeit machbar ist
 
 - [„Synthetic Summer“](https://www.privateisland.tv/home/synthetic-summer) (wahrscheinlich mit Gen-2 generiert)
 - [Zeroscope-Beispielvideo 1](https://twitter.com/pharmapsychotic/status/1673825814906048512)
@@ -192,7 +192,7 @@ markmap:
 - [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
   - → [Ausprobieren](https://studio.d-id.com/)
 - [Fliki](https://fliki.ai/)<br><small>Videos aus Text-to-Speech-Audiospuren und Stock-Videoclips oder Bildern zusammenbauen</small>
-  - [Ausprobieren](https://app.fliki.ai/files)
+  - → [Ausprobieren](https://app.fliki.ai/files)
 
 ##### Video → Video
 
@@ -211,7 +211,7 @@ markmap:
 - [Runway Video Inpainting](https://runwayml.com/inpainting/)<br><small>unerwünschte (auch bewegte!) Objekte aus Videos entfernen</small>
 - Adobe Premiere Pro (Beta)<br><small>Videoschnitt per Transkript</small>
 
-##### Automatisierte Videopersonalisierung
+##### Automatisierte<br>Videopersonalisierung
 
 - [Maverick](https://www.trymaverick.com/)
 
@@ -261,12 +261,12 @@ markmap:
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
   - → [Ausprobieren](https://app.zyngai.com/)
-- [InsightFace face swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
+- [InsightFace Face Swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
   - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
 
 ##### Bildbearbeitung
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
-- [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt in Discord in Vektorgrafiken umwandeln lassen</small>
+- [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
   - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
   - → [Ausprobieren](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
@@ -275,7 +275,7 @@ markmap:
 
 ##### Utilities
 
-###### Prompt-Erstellung und -Optimierung
+###### Prompt-Erstellung<br>und -Optimierung
 
 - [IMI Prompt](https://www.imiprompt.com/builder)<br><small>Midjourney Prompt Builder</small>
 - [promptoMANIA Prompt Builder](https://promptomania.com/prompt-builder/)<br><small>für verschiedene Bildgenerierungs-Tools</small>
