@@ -307,6 +307,11 @@ markmap:
 - [DeepL Translator](https://www.deepl.com/translator)
   - Trainingsdaten: [Linguee](https://www.linguee.de/)
 
+##### KI-Texterstellungs-Features als<br>Unterstützungsfunktion in anderen Apps
+
+- [Magic Write in Canva](https://www.canva.com/magic-write/)
+- [AI Caption Writer in SmarterQueue](https://smarterqueue.com/features/ai_caption_writer?src=sidenav)
+
 ##### Beispiele für (oft überflüssige)<br>Drittanbieter-Apps
 
 - [Rix](https://hashnode.com/rix)
