@@ -4,10 +4,10 @@ markmap:
   # maxWidth: 300
   colorFreezeLevel: 2
   color:
-  - '#1B1D1C'
-  - '#B2B2B2'
-  - '#FBBA00'
-  - '#0D3174'
+    - "#1B1D1C"
+    - "#B2B2B2"
+    - "#FBBA00"
+    - "#0D3174"
 ---
 
 # KI-Tools fürs<br>Marketing
@@ -37,14 +37,14 @@ markmap:
 
 ### ML-Lernmethoden<br>und -Anwendungen
 
-- *Lernmethode:* Überwachtes Lernen<br>(→ labeled Data notwendig)
-  - *Anwendung:* z. B. Klassifikation (→ diskrete Ergebnismenge)
-  - *Anwendung:* z. B. Regression (→ stetige Ergebnismenge)
-- *Lernmethode:* Unüberwachtes Lernen<br>(→ unlabeled Data ausreichend)
-  - *Anwendung:* z. B. Clustering
-  - *Anwendung:* z. B. Dimensionsreduktion
-- *Lernmethode:* Bestärkendes Lernen
-  - *Anwendung:* z. B. Optimieren oder Nachtrainieren von ML-Modellen
+- _Lernmethode:_ Überwachtes Lernen<br>(→ labeled Data notwendig)
+  - _Anwendung:_ z. B. Klassifikation (→ diskrete Ergebnismenge)
+  - _Anwendung:_ z. B. Regression (→ stetige Ergebnismenge)
+- _Lernmethode:_ Unüberwachtes Lernen<br>(→ unlabeled Data ausreichend)
+  - _Anwendung:_ z. B. Clustering
+  - _Anwendung:_ z. B. Dimensionsreduktion
+- _Lernmethode:_ Bestärkendes Lernen
+  - _Anwendung:_ z. B. Optimieren oder Nachtrainieren von ML-Modellen
 
 ### Generative KI-Modelle
 
@@ -60,17 +60,17 @@ markmap:
 - Variational Autoencoder
   - Oft für Bildgenerierung eingesetzt (z. B. in Stable Diffusion)
   - Bestandteile
-    - Encoder → vereinfacht komplizierte Daten<br>*(Anschaulicher Vergleich: Maler 1 erstellt eine Reihe<br>einfacher Skizzen einer Szene)*
-    - Decoder → versucht, Originaldaten aus den vom<br>Encoder vereinfachten Daten zu rekonstruieren<br>*(Anschaulicher Vergleich: Maler 2 wählt eine dieser<br>Skizzen aus und versucht, daraus ein Bild zu malen,<br>das die Originalszene möglichst genau abbildet, ohne<br>jedoch die Originalszene selbst zu kennen)*
+    - Encoder → vereinfacht komplizierte Daten<br>_(Anschaulicher Vergleich: Maler 1 erstellt eine Reihe<br>einfacher Skizzen einer Szene)_
+    - Decoder → versucht, Originaldaten aus den vom<br>Encoder vereinfachten Daten zu rekonstruieren<br>_(Anschaulicher Vergleich: Maler 2 wählt eine dieser<br>Skizzen aus und versucht, daraus ein Bild zu malen,<br>das die Originalszene möglichst genau abbildet, ohne<br>jedoch die Originalszene selbst zu kennen)_
 - Denoising Diffusion Models
   - Oft für Bildgenerierung eingesetzt (z. B. in Stable Diffusion)
   - Trainingsprinzip
-    - *Schritt 1* Vermischung des Ausgangsbildes mit Rauschen<br>(schrittweise stärker werdend) und Protokollierung
-    - *Schritt 2:* Versuch der Wiederherstellung des Ausgangsbildes<br>aus dem Rauschen anhand der Protokolle
+    - _Schritt 1_ Vermischung des Ausgangsbildes mit Rauschen<br>(schrittweise stärker werdend) und Protokollierung
+    - _Schritt 2:_ Versuch der Wiederherstellung des Ausgangsbildes<br>aus dem Rauschen anhand der Protokolle
   - Ziel des Trainings
     - Modell erhält durch die Analyse der Vereinfachungsschritte<br>(Bildrauschen) vieler unterschiedlicher Bilder desselben Motivs<br>eine „Vorstellung“ vom Motiv, unabhängig von den Parametern<br>(z. B. Perspektive, Beleuchtung usw.) eines konkreten Bildes
     - Modell lernt „Rezepte“ für die Wiederherstellung verschiedener<br>Arten von Bildern aus Rauschen
-  - *Anwendung:* Erstellung völlig „neuer“ Bilder eines Motivs
+  - _Anwendung:_ Erstellung völlig „neuer“ Bilder eines Motivs
     - Funktioniert als „Text to Image“ meist in Kombination<br> mit anderen ML-Techniken und unter Zuhilfenahme<br>von labeled Data im Trainingsprozess
     - Sehr anschauliche Erklärung zum Nachlesen:<br>[How Stable Diffusion Works](https://mccormickml.com/2022/12/21/how-stable-diffusion-works/)
 
@@ -87,11 +87,8 @@ markmap:
 #### Tools
 
 - [Tome](https://tome.app/)
-  - → [Ausprobieren](https://tome.app/van-laar)
 - [Decktopus](https://www.decktopus.com/)
-  - → [Ausprobieren](https://app.decktopus.com/dashboard/decks)
 - [Beautiful.ai](https://www.beautiful.ai/)
-  - → [Ausprobieren](https://www.beautiful.ai/library/owned_by_me)
 
 ### Audio
 
@@ -110,16 +107,12 @@ markmap:
 ##### Text → Sprache
 
 - [ElevenLabs](https://beta.elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
-  - → [Ausprobieren](https://beta.elevenlabs.io/speech-synthesis)
 - [PlayHT](https://play.ht/)<br><small>inkl. Voice Cloning</small>
-  - → [Ausprobieren](https://play.ht/studio/)
 - [WondercraftAI](https://www.wondercraft.ai)<br><small>Komplette Podcast-Produktion aus geschriebenem Text</small>
-  - → [Ausprobieren](https://app.wondercraft.ai/podcasts/create)
 
 ##### Sprache → Text
 
 - [Happy Scribe](https://www.happyscribe.com/de)<br><small>Untertitel und Transkription für Videos</small>
-  - → [Ausprobieren](https://www.happyscribe.com/v2/2846538/folders/2778948)
 - [AudioPen](https://audiopen.ai/)<br><small>Audiotranskription + automatisches „Aufräumen“ und Zusammenfassen</small>
 
 ##### Sprache → Sprache
@@ -129,18 +122,14 @@ markmap:
   - [Celebrity Voice Models](https://huggingface.co/QuickWick/Music-AI-Voices/tree/main)
   - [Celebrity Voice Models](https://huggingface.co/marcoc2/so-vits-svc-4.0-models/tree/main)
 
-
 ##### Musikgenerierung
 
 - [Splash](https://www.splashmusic.com/)
-  - → [BeatBot ausprobieren](https://beatbot.fm/)
-  - → [Splash Pro ausprobieren](https://pro.splashmusic.com/)
+  - → [BeatBot](https://beatbot.fm/)
+  - → [Splash Pro](https://pro.splashmusic.com/)
 - [Mubert](https://mubert.com/)
-  - → [Ausprobieren](https://mubert.com/render)
 - [AIVA](https://www.aiva.ai/)
-  - → [Ausprobieren](https://creators.aiva.ai/)
 - [beatoven.ai](https://www.beatoven.ai/)
-  - → [Ausprobieren](https://sync.beatoven.ai/workspace)
 - [MusicGen](https://github.com/facebookresearch/audiocraft)
   - → [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/facebook/MusicGen)
   - → [Ausprobieren bei MusicGen-Looper](https://replicate.com/andreasjansson/musicgen-looper)
@@ -183,31 +172,23 @@ markmap:
 ##### Text Prompt → Video
 
 - [Gen-2](https://runwayml.com/ai-magic-tools/gen-2/)
-  - → [Ausprobieren](https://app.runwayml.com/video-tools/teams/MichaelvanLaar/assets)
 - [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)
-  - → [Ausprobieren](https://huggingface.co/spaces/fffiloni/zeroscope)
 - [Kaiber](https://kaiber.ai/)
-  - → [Ausprobieren](https://kaiber.ai/dashboard)
-- [Teach-O-Matic](https://www.teachomatic.net/)<br><small>*„Create AI how-to videos from text instructions. It runs on Replicate, LangChain, and GPT-4.“*</small>
+- [Teach-O-Matic](https://www.teachomatic.net/)<br><small>_„Create AI how-to videos from text instructions. It runs on Replicate, LangChain, and GPT-4.“_</small>
 - [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
-  - → [Ausprobieren](https://studio.d-id.com/)
 - [Fliki](https://fliki.ai/)<br><small>Videos aus Text-to-Speech-Audiospuren und Stock-Videoclips oder Bildern zusammenbauen</small>
-  - → [Ausprobieren](https://app.fliki.ai/files)
 
 ##### Video → Video
 
 - [Gen-1](https://runwayml.com/ai-magic-tools/gen-1/)<br><small>Modifizierung von Referenz-Videos mithilfe eines Referenz-Bildes oder eines Text-Prompts</small>
-  - → [Ausprobieren](https://app.runwayml.com/video-tools/teams/MichaelvanLaar/assets)
 
 ##### Video → Animation
 
 - 😉 [Animated Drawings](https://sketch.metademolab.com/)
-  - → [Ausprobieren](https://sketch.metademolab.com/canvas)
 
 ##### Videobearbeitung
 
 - [vidyo.ai](https://vidyo.ai/)<br><small>„Make short videos from long ones instantly“</small>
-  - [Ausprobieren](https://app.vidyo.ai/home)
 - [Runway Video Inpainting](https://runwayml.com/inpainting/)<br><small>unerwünschte (auch bewegte!) Objekte aus Videos entfernen</small>
 - Adobe Premiere Pro (Beta)<br><small>Videoschnitt per Transkript</small>
 
@@ -230,7 +211,6 @@ markmap:
 #### Tools
 
 - [Meshy](https://www.meshy.ai/)
-  - → [Ausprobieren](https://discord.com/channels/1080050109062058044/1083607466719330334)
 
 ### Bilder<br>(Pixelgrafiken)
 
@@ -246,30 +226,27 @@ markmap:
 ##### Bildgenerierung
 
 - [Midjourney](https://www.midjourney.com/)
-  - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
-  - [Dokumentation](https://docs.midjourney.com/)
 - [Stable Diffusion](https://stability.ai/stablediffusion)
   - → [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
-  - → [Ausprobieren (inkl. ControlNet) bei RunDiffusion](https://app.rundiffusion.com/)
-  - → [Ausprobieren bei Playground AI](https://playgroundai.com/)
+  - → [Nutzung (inkl. ControlNet) bei RunDiffusion](https://rundiffusion.com/)
+  - → [Nutzung bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
 - [DALL·E](https://openai.com/dall-e-2)
-  - → [Ausprobieren](https://labs.openai.com/)
 - [Adobe Firefly](https://firefly.adobe.com/)
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
 - [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
-  - → [Ausprobieren](https://app.zyngai.com/)
 - [InsightFace Face Swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
-  - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
+  - → [Nutzung via Discord](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord)
 
 ##### Bildbearbeitung
+
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
-  - → [Ausprobieren](https://discord.com/channels/1125538374145552414/1125539703324684418)
+  - → [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
-  - → [Ausprobieren](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
+  - → [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
   - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
   - [Anleitungsvideo fürs Ausprobieren](https://www.youtube.com/watch?v=ud6k0AVzw4M)
 
@@ -284,7 +261,7 @@ markmap:
 
 ###### Stil-Referenzen
 
-- [Midlibrary](https://www.midlibrary.io/)<br><small>*„The most advanced library of genres, artistic movements,<br>techniques, titles, and artists’ styles for Midjourney AI“*</small>
+- [Midlibrary](https://www.midlibrary.io/)<br><small>_„The most advanced library of genres, artistic movements,<br>techniques, titles, and artists’ styles for Midjourney AI“_</small>
 
 ###### Bild → Prompt
 
@@ -356,7 +333,6 @@ markmap:
 - [Prompt Vibes](https://www.promptvibes.com/)
 - [Awesome ChatGPT Prompts](https://prompts.chat/)
 - [Prompt Perfect](https://promptperfect.jina.ai/)
-  - → [Ausprobieren](https://promptperfect.jina.ai/home)
 - [PromptDrive](https://promptdrive.ai/)
 
 ###### Erkennung KI-generierter Texte
@@ -387,7 +363,7 @@ markmap:
 
 ### Wissenssammlungen
 
-- [AI Canon](https://a16z.com/2023/05/25/ai-canon/) von Andreessen Horowitz (a16z)<br><small>*„a curated list of resources we’ve relied on to get smarter about modern AI“*</small>
+- [AI Canon](https://a16z.com/2023/05/25/ai-canon/) von Andreessen Horowitz (a16z)<br><small>_„a curated list of resources we’ve relied on to get smarter about modern AI“_</small>
 - [AI glossary by a16z](https://a16z.com/ai-glossary/)
 
 ### Tool-Übersichten
