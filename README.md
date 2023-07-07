@@ -125,14 +125,14 @@ markmap:
 ##### Musikgenerierung
 
 - [Splash](https://www.splashmusic.com/)
-  - → [BeatBot](https://beatbot.fm/)
-  - → [Splash Pro](https://pro.splashmusic.com/)
+  - [BeatBot](https://beatbot.fm/)
+  - [Splash Pro](https://pro.splashmusic.com/)
 - [Mubert](https://mubert.com/)
 - [AIVA](https://www.aiva.ai/)
 - [beatoven.ai](https://www.beatoven.ai/)
 - [MusicGen](https://github.com/facebookresearch/audiocraft)
-  - → [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/facebook/MusicGen)
-  - → [Ausprobieren bei MusicGen-Looper](https://replicate.com/andreasjansson/musicgen-looper)
+  - [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/facebook/MusicGen)
+  - [Ausprobieren bei MusicGen-Looper](https://replicate.com/andreasjansson/musicgen-looper)
 - [The Watson Beat](https://github.com/cognitive-catalyst/watson-beat)<br><small>KI-Modell erstellt aus einer einfachen Melodie und Stilanweisungen<br>eine komplette Komposition inkl. Arrangement für mehrere Instrumente</small>
   - [Audio-Beispiele](https://www.youtube.com/watch?v=Z5ymVzTUU6Y)
 - [DeepComposer](https://aws.amazon.com/de/deepcomposer/)<br><small>Grundprinzip wie bei The Watson Beat, aber umgesetzt als Keyboard<br>(Hardware) mit direktem Anschluss an KI-Modelle in der AWS-Cloud</small>
@@ -227,9 +227,9 @@ markmap:
 
 - [Midjourney](https://www.midjourney.com/)
 - [Stable Diffusion](https://stability.ai/stablediffusion)
-  - → [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
-  - → [Nutzung (inkl. ControlNet) bei RunDiffusion](https://rundiffusion.com/)
-  - → [Nutzung bei Playground AI](https://playgroundai.com/)
+  - [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
+  - [Nutzung (inkl. ControlNet) bei RunDiffusion](https://rundiffusion.com/)
+  - [Nutzung bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
 - [DALL·E](https://openai.com/dall-e-2)
 - [Adobe Firefly](https://firefly.adobe.com/)
@@ -238,15 +238,15 @@ markmap:
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
 - [InsightFace Face Swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
-  - → [Nutzung via Discord](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord)
+  - [Nutzung via Discord](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord)
 
 ##### Bildbearbeitung
 
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
-  - → [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
+  - [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
-  - → [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
+  - [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
   - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
   - [Anleitungsvideo fürs Ausprobieren](https://www.youtube.com/watch?v=ud6k0AVzw4M)
 
