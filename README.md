@@ -109,6 +109,7 @@ markmap:
 - [ElevenLabs](https://beta.elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
 - [PlayHT](https://play.ht/)<br><small>inkl. Voice Cloning</small>
 - [WondercraftAI](https://www.wondercraft.ai)<br><small>Komplette Podcast-Produktion aus geschriebenem Text</small>
+- 😉 [Uberduck](https://uberduck.ai/)
 
 ##### Sprache → Text
 
