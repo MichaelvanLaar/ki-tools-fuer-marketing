@@ -173,6 +173,7 @@ markmap:
 
 - [Gen-2](https://runwayml.com/ai-magic-tools/gen-2/)
 - [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)
+- [Pika](https://www.pika.art/)
 - [Kaiber](https://kaiber.ai/)
 - [Teach-O-Matic](https://www.teachomatic.net/)<br><small>_„Create AI how-to videos from text instructions. It runs on Replicate, LangChain, and GPT-4.“_</small>
 - [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
