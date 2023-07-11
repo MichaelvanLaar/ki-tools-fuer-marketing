@@ -109,6 +109,8 @@ markmap:
 - [ElevenLabs](https://beta.elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
 - [PlayHT](https://play.ht/)<br><small>inkl. Voice Cloning</small>
 - [WondercraftAI](https://www.wondercraft.ai)<br><small>Komplette Podcast-Produktion aus geschriebenem Text</small>
+- [VoiceBox](https://voicebox.metademolab.com/)<br><small>Voice Cloning auf Basis von nur wenigen Sekunden Sprachaufnahme<br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
+- [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)<br><small>Voice Cloning auf Basis von nur wenigen Sekunden Sprachaufnahme<br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
 - 😉 [Uberduck](https://uberduck.ai/)
 
 ##### Sprache → Text
@@ -222,6 +224,7 @@ markmap:
 - Bild → Bild
 - Kombination aus Bild- und Text-Prompt → Bild
 - Bildbearbeitung per Text-Prompt
+- Experimentell: [Rekonstruktion visueller Eindrücke aus menschlicher Gehirnaktivität](https://sites.google.com/view/stablediffusion-with-brain/)
 
 #### Tools
 
@@ -280,8 +283,9 @@ markmap:
 - Übersetzung
 - Zusammenfassungen
 - Textanalysen (z. B. Sentimentanalysen)
-- Chatbots (z. B. für Customer-Support, Wissensvermittlung, )
+- Chatbots (z. B. für Customer-Support, Wissensvermittlung)
 - Programmcode-Erstellung, -Optimierung, -Debugging
+- Datenanalyse<br><small>(ChatGPT kennt die entsprechenden statistischen Methoden und<br>kann selbstständig ein entsprechendes Analyse-Programm in<br>Python programmieren, Ausführen und die Ergebnisse interpretieren)</small>
 - In Kombination mit anderen Tools (z. B. Websuche, Plugins, APIs):<br>User Interface für nahezu beliebige Anwendungsfälle,<br>die sich mit Sprache und/oder Text abbilden lassen
 - Automone Agenten zur selbständigen, mehrstufigen Lösung von komplexen Aufgaben
 - …
