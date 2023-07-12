@@ -109,6 +109,7 @@ markmap:
 - [ElevenLabs](https://beta.elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
 - [PlayHT](https://play.ht/)<br><small>inkl. Voice Cloning</small>
 - [WondercraftAI](https://www.wondercraft.ai)<br><small>Komplette Podcast-Produktion aus geschriebenem Text</small>
+- [BARK](https://github.com/serp-ai/bark-with-voice-clone)<br><small>inkl. Voice Cloning<br>(Open Source)</small>
 - [VoiceBox](https://voicebox.metademolab.com/)<br><small>Voice Cloning auf Basis von nur wenigen Sekunden Sprachaufnahme<br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
 - [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)<br><small>Voice Cloning auf Basis von nur wenigen Sekunden Sprachaufnahme<br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
 - 😉 [Uberduck](https://uberduck.ai/)
@@ -250,10 +251,12 @@ markmap:
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
   - [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
+- [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)<br><small>KI-basiertes Bild-Upscaling bis zu 600%</small>
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
   - [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
   - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
   - [Anleitungsvideo fürs Ausprobieren](https://www.youtube.com/watch?v=ud6k0AVzw4M)
+- [FreeDrag](https://lin-chen.site/projects/freedrag/)<br><small>„Nachfolger“ von DragGAN, mit besseren Fähigkeiten</small>
 
 ##### Utilities
 
@@ -326,6 +329,7 @@ markmap:
 - [analogenie](https://analogenie.com/)
 - [ELI5](https://explainlikeimfive.io/)
 - [Samwell](https://www.samwell.ai/)
+- [Pico](https://picoapps.xyz/)<br><small><i>„GPT4-powered text-to-app platform“</i></small>
 
 ##### Kombination verschiedener Tools
 
@@ -362,6 +366,7 @@ markmap:
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Learn Prompting](https://learnprompting.org/docs/intro)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)<br><small>Halbautomatisches Promt-Engineering-Tool</small>
 
 ### Lernplattformen
 
