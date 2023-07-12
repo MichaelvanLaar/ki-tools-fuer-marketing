@@ -109,6 +109,9 @@ markmap:
 - [ElevenLabs](https://beta.elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
 - [PlayHT](https://play.ht/)<br><small>inkl. Voice Cloning</small>
 - [WondercraftAI](https://www.wondercraft.ai)<br><small>Komplette Podcast-Produktion aus geschriebenem Text</small>
+- [VoiceBox](https://voicebox.metademolab.com/)<br><small>Voice Cloning auf Basis von nur wenigen Sekunden Sprachaufnahme<br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
+- [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/)<br><small>Voice Cloning auf Basis von nur wenigen Sekunden Sprachaufnahme<br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
+- 😉 [Uberduck](https://uberduck.ai/)
 
 ##### Sprache → Text
 
@@ -173,6 +176,7 @@ markmap:
 
 - [Gen-2](https://runwayml.com/ai-magic-tools/gen-2/)
 - [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope)
+- [Pika](https://www.pika.art/)
 - [Kaiber](https://kaiber.ai/)
 - [Teach-O-Matic](https://www.teachomatic.net/)<br><small>_„Create AI how-to videos from text instructions. It runs on Replicate, LangChain, and GPT-4.“_</small>
 - [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
@@ -220,6 +224,7 @@ markmap:
 - Bild → Bild
 - Kombination aus Bild- und Text-Prompt → Bild
 - Bildbearbeitung per Text-Prompt
+- Experimentell: [Rekonstruktion visueller Eindrücke aus menschlicher Gehirnaktivität](https://sites.google.com/view/stablediffusion-with-brain/)
 
 #### Tools
 
@@ -278,8 +283,9 @@ markmap:
 - Übersetzung
 - Zusammenfassungen
 - Textanalysen (z. B. Sentimentanalysen)
-- Chatbots (z. B. für Customer-Support, Wissensvermittlung, )
+- Chatbots (z. B. für Customer-Support, Wissensvermittlung)
 - Programmcode-Erstellung, -Optimierung, -Debugging
+- Datenanalyse<br><small>(ChatGPT kennt die entsprechenden statistischen Methoden und<br>kann selbstständig ein entsprechendes Analyse-Programm in<br>Python programmieren, Ausführen und die Ergebnisse interpretieren)</small>
 - In Kombination mit anderen Tools (z. B. Websuche, Plugins, APIs):<br>User Interface für nahezu beliebige Anwendungsfälle,<br>die sich mit Sprache und/oder Text abbilden lassen
 - Automone Agenten zur selbständigen, mehrstufigen Lösung von komplexen Aufgaben
 - …
@@ -294,7 +300,7 @@ markmap:
 - [Bard](https://bard.google.com/)<br><small>Wird von Google in Europa wegen der DSGVO nicht angeboten,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)<br><small>GPT-4-basiert, nur mit dem Edge-Browser nutzbar.</small>
-- [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit)
+- [OpenChatKit](https://openchatkit.net/)
 - [Nutzung verschiedener Modelle bei Forefront](https://www.forefront.ai/)
 - [Nutzung verschiedener Modelle bei nat.dev OpenPlayground](https://nat.dev/)
 
