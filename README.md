@@ -300,7 +300,7 @@ markmap:
 - [OpenAI GPT](https://openai.com/gpt-4)
   - [Playground](https://platform.openai.com/playground)
   - [ChatGPT](https://chat.openai.com/)
-- [Bard](https://bard.google.com/)<br><small>Wird von Google in Europa wegen der DSGVO nicht angeboten,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
+- [Bard](https://bard.google.com/)
 - [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)<br><small>GPT-4-basiert, nur mit dem Edge-Browser nutzbar.</small>
 - [OpenChatKit](https://openchatkit.net/)<br><small>(Open Source)</small>
