@@ -300,9 +300,9 @@ markmap:
 - [OpenAI GPT](https://openai.com/gpt-4)
   - [Playground](https://platform.openai.com/playground)
   - [ChatGPT](https://chat.openai.com/)
-- [Bard](https://bard.google.com/)
-- [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)<br><small>GPT-4-basiert, nur mit dem Edge-Browser nutzbar.</small>
+- [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
+- [Bard](https://bard.google.com/)
 - [OpenChatKit](https://openchatkit.net/)<br><small>(Open Source)</small>
 - [Nutzung verschiedener Modelle bei Forefront](https://www.forefront.ai/)
 - [Nutzung verschiedener Modelle bei nat.dev OpenPlayground](https://nat.dev/)
@@ -336,6 +336,7 @@ markmap:
 - [Blobr ChatGPT plugin generator](https://www.blobr.io/api-gateway-chatgpt-plugins)<br><small>No-Code-GUI zum Erstellen eigener ChatGPT-Plugins,<br>mit denen auf jede verfügbare API zugegriffen werden kann</small>
 - [LangChain](https://langchain.com/)<br><small>Zusammenbauen von eigenen Apps (z. B. Chatbots)<br>durch Kombination verschiedener APIs und Tools</small>
 - [FlowiseAI](https://flowiseai.com/)<br><small>No-Code-/Low-Code-GUI zur Erstellung von LangChain-Apps</small>
+- [Floneum](https://floneum.com/)<br><small><i>„A graph editor for local AI workflows“</i></small>
 - [embedchain](https://github.com/embedchain/embedchain)<br><small>Für Entwickler: LangChain-basiertes Python-Framework zum Erstellen von Chatbots<br>auf GPT-Basis (via OpenAI-API), die sich nur auf selbst bereitgestellte Inhalte beziehen</small>
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [CustomGPT](https://customgpt.ai/)<br><small>Chatbots auf GPT-Basis (via OpenAI-API), die sich nur auf selbst bereitgestellte Inhalte beziehen<br>(Einbindung auf der sepp.med-Website aufgrund der DSGVO schwierig)</small>
