@@ -100,6 +100,7 @@ markmap:
 - Text → Musik
 - Musik → Musik
 - Kombination aus Referenz-Musik und Text-Prompt → Musik
+- Text → Soundeffekt (z. B. für Filmproduktion)
 - Audiobearbeitung<br><small>z. B. Hintergrundgeräusche entfernen, automatische Optimierungen</small>
 
 #### Tools
@@ -142,6 +143,10 @@ markmap:
 - [DeepComposer](https://aws.amazon.com/de/deepcomposer/)<br><small>Grundprinzip wie bei The Watson Beat, aber umgesetzt als Keyboard<br>(Hardware) mit direktem Anschluss an KI-Modelle in der AWS-Cloud</small>
   - [Demo-Video von 2019](https://www.youtube.com/watch?v=XH2EbK9dQlg&t=453s)
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/)<br><small>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)<br>→ „Story Mode“ sieht für Video-Soundtracks sehr vielversprechend aus</small>
+- [SingSong](https://storage.googleapis.com/sing-song/index.html)<br><small><i>„Generating musical accompaniments from singing“</i><br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
+- [Moûsai](https://anonymous0.notion.site/anonymous0/Mo-sai-Text-to-Audio-with-Long-Context-Latent-Diffusion-b43dbc71caf94b5898f9e8de714ab5dc)<br><small><i>„Text-to-Audio with Long-Context Latent Diffusion“</i><br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)</small>
+- [AudioLDM](https://audioldm.github.io/)<br><small><i>„Text-to-Audio Generation with
+Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, aber Beispiel-Clips verfügbar)<br>→ Interessant offenbar auch für die Generierung von Soundeffekten für Video-/Filmproduktion</small>
 - [Synthesizer V](https://dreamtonics.com/synthesizerv/)<br><small>Generierung von künstlichen Gesangsstimmen, die echte Texte singen</small>
 - 😉 [Image to Music](https://huggingface.co/spaces/fffiloni/img-to-music)
 - 😉 [Voicemod](https://www.voicemod.net/text-to-song/)<br><small>„Your musical meme machine“</small>
@@ -234,6 +239,7 @@ markmap:
 - [Midjourney](https://www.midjourney.com/)
 - [Stable Diffusion](https://stability.ai/stablediffusion)
   - [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
+  - [Ausprobieren bei Clipdrop](https://clipdrop.co/tools)
   - [Nutzung (inkl. ControlNet) bei RunDiffusion](https://rundiffusion.com/)
   - [Nutzung bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
@@ -252,6 +258,7 @@ markmap:
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
   - [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)<br><small>KI-basiertes Bild-Upscaling bis zu 600%</small>
+- [Upscale.media](https://www.upscale.media/)
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
   - [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
   - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
