@@ -164,17 +164,22 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - Text-Prompt → Video
 - Video → Video
 - Kombination aus Referenz-Video und Bild-/Text-Prompt → Video
+- KI-generierte Aninationen oder Animationen aus KI-generierten Bestandteilen
 - Videobearbeitung per Text-Prompt
 - Automatisierte Videopersonalisierung
 
 #### Beispiele dafür, was mit Text-to-<br>Video-Tools derzeit machbar ist
 
 - [„Synthetic Summer“](https://www.privateisland.tv/home/synthetic-summer) (wahrscheinlich mit Gen-2 generiert)
+- [„Cursed Heidi“](https://www.youtube.com/watch?v=0A2-Af5JEWU) (mit Gen-2 generiert)
 - [Zeroscope-Beispielvideo 1](https://twitter.com/pharmapsychotic/status/1673825814906048512)
 - [Zeroscope-Beispielvideo 2](https://twitter.com/cerspense/status/1672365482454958080)
 - [Zeroscope-Beispielvideo 3](https://twitter.com/veryVANYA/status/1673695807147585538)
 - [Zeroscope-Beispielvideo 4](https://twitter.com/dotsimulate/status/1673780493848805379)
 - [Zeroscope-Beispielvideo 5](https://www.reddit.com/r/aivideo/comments/14kikmr/just_walking_through_the_ages/)
+- [KI-generierte „South Park“-Folgen](https://vimeo.com/user94220217)
+  - [Research Paper zur verwendeten Technologie-Kombination](https://fablestudio.github.io/showrunner-agents/)
+  - [Hintergrundrecherche](https://www.youtube.com/watch?v=Oo0HvBtXqMg)
 
 #### Tools
 
@@ -192,7 +197,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 - [Gen-1](https://runwayml.com/ai-magic-tools/gen-1/)<br><small>Modifizierung von Referenz-Videos mithilfe eines Referenz-Bildes oder eines Text-Prompts</small>
 
-##### Video → Animation
+##### Bild → Animation
 
 - 😉 [Animated Drawings](https://sketch.metademolab.com/)
 
@@ -311,6 +316,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bard](https://bard.google.com/)
 - [OpenChatKit](https://openchatkit.net/)<br><small>(Open Source)</small>
+- [Llama 2](https://ai.meta.com/llama/)<br><small>Foundation-Modell zum Download, keine Webapp zum direkten Ausprobieren<br>(Open Source)<small>
 - [Nutzung verschiedener Modelle bei Forefront](https://www.forefront.ai/)
 - [Nutzung verschiedener Modelle bei nat.dev OpenPlayground](https://nat.dev/)
 
