@@ -177,7 +177,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Zeroscope-Beispielvideo 3](https://twitter.com/veryVANYA/status/1673695807147585538)
 - [Zeroscope-Beispielvideo 4](https://twitter.com/dotsimulate/status/1673780493848805379)
 - [Zeroscope-Beispielvideo 5](https://www.reddit.com/r/aivideo/comments/14kikmr/just_walking_through_the_ages/)
-- [KI-generierte „South Park“-Folgen](https://vimeo.com/user94220217)
+- [KI-generierte „South Park“-Folgen](https://vimeo.com/user94220217)<br><small>Echtheit bisher nicht geklärt, einiges deutet auf einen Hoax hin.</small>
   - [Research Paper zur verwendeten Technologie-Kombination](https://fablestudio.github.io/showrunner-agents/)
   - [Hintergrundrecherche](https://www.youtube.com/watch?v=Oo0HvBtXqMg)
 
@@ -315,10 +315,12 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)<br><small>GPT-4-basiert, nur mit dem Edge-Browser nutzbar.</small>
 - [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bard](https://bard.google.com/)
+- [Llama 2](https://ai.meta.com/llama/)<br><small>(Open Source)<small>
+  - [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
 - [OpenChatKit](https://openchatkit.net/)<br><small>(Open Source)</small>
-- [Llama 2](https://ai.meta.com/llama/)<br><small>Foundation-Modell zum Download, keine Webapp zum direkten Ausprobieren<br>(Open Source)<small>
 - [Nutzung verschiedener Modelle bei Forefront](https://www.forefront.ai/)
 - [Nutzung verschiedener Modelle bei nat.dev OpenPlayground](https://nat.dev/)
+- [Nutzung verschiedener Open-Source-Modelle lokal und offline via GPT4ALL](https://gpt4all.io/)<br><small>Setzt je nach Modell leistungsfähige Hardware voraus, um zu funktionieren.</small>
 
 ##### Textüberarbeitung
 
