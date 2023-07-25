@@ -254,6 +254,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
+- [Subject-Diffusion](https://oppo-mente-lab.github.io/subject_diffusion/)<br><small>Bilder beliebiger Vorgabe-Objekte, -Tiere oder -Menschen anhand von nur einem einzigen Foto erzeugen</small>
 - [InsightFace Face Swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
   - [Nutzung via Discord](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord)
 
