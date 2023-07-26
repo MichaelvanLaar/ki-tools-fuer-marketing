@@ -373,7 +373,6 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [GPTZero](https://gptzero.me/)
 - [GPT Radar](https://gptradar.com/)
 - [ZeroGPT Detector](https://www.zerogptdetector.com/)
-- [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
 
 ## Prompt Engineering,<br>Tipps und Weiterbildung
 
