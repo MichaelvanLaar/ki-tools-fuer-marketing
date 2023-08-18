@@ -165,17 +165,22 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - Text-Prompt → Video
 - Video → Video
 - Kombination aus Referenz-Video und Bild-/Text-Prompt → Video
+- KI-generierte Aninationen oder Animationen aus KI-generierten Bestandteilen
 - Videobearbeitung per Text-Prompt
 - Automatisierte Videopersonalisierung
 
 #### Beispiele dafür, was mit Text-to-<br>Video-Tools derzeit machbar ist
 
 - [„Synthetic Summer“](https://www.privateisland.tv/home/synthetic-summer) (wahrscheinlich mit Gen-2 generiert)
+- [„Cursed Heidi“](https://www.youtube.com/watch?v=0A2-Af5JEWU) (mit Gen-2 generiert)
 - [Zeroscope-Beispielvideo 1](https://twitter.com/pharmapsychotic/status/1673825814906048512)
 - [Zeroscope-Beispielvideo 2](https://twitter.com/cerspense/status/1672365482454958080)
 - [Zeroscope-Beispielvideo 3](https://twitter.com/veryVANYA/status/1673695807147585538)
 - [Zeroscope-Beispielvideo 4](https://twitter.com/dotsimulate/status/1673780493848805379)
 - [Zeroscope-Beispielvideo 5](https://www.reddit.com/r/aivideo/comments/14kikmr/just_walking_through_the_ages/)
+- [KI-generierte „South Park“-Folgen](https://vimeo.com/user94220217)<br><small>Echtheit bisher nicht geklärt, einiges deutet auf einen Hoax hin.</small>
+  - [Research Paper zur verwendeten Technologie-Kombination](https://fablestudio.github.io/showrunner-agents/)
+  - [Hintergrundrecherche](https://www.youtube.com/watch?v=Oo0HvBtXqMg)
 
 #### Tools
 
@@ -193,7 +198,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 - [Gen-1](https://runwayml.com/ai-magic-tools/gen-1/)<br><small>Modifizierung von Referenz-Videos mithilfe eines Referenz-Bildes oder eines Text-Prompts</small>
 
-##### Video → Animation
+##### Bild → Animation
 
 - 😉 [Animated Drawings](https://sketch.metademolab.com/)
 
@@ -250,6 +255,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
+- [Subject-Diffusion](https://oppo-mente-lab.github.io/subject_diffusion/)<br><small>Bilder beliebiger Vorgabe-Objekte, -Tiere oder -Menschen anhand von nur einem einzigen Foto erzeugen</small>
 - [InsightFace Face Swapping](https://insightface.ai/)<br><small>Gesichter in Fotos oder KI-generierten Bildern austauschen</small>
   - [Nutzung via Discord](https://github.com/deepinsight/insightface/tree/master/web-demos/swapping_discord)
 
@@ -311,9 +317,12 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)<br><small>GPT-4-basiert, nur mit dem Edge-Browser nutzbar.</small>
 - [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bard](https://bard.google.com/)
+- [Llama 2](https://ai.meta.com/llama/)<br><small>(Open Source)<small>
+  - [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
 - [OpenChatKit](https://openchatkit.net/)<br><small>(Open Source)</small>
 - [Nutzung verschiedener Modelle bei Forefront](https://www.forefront.ai/)
 - [Nutzung verschiedener Modelle bei nat.dev OpenPlayground](https://nat.dev/)
+- [Nutzung verschiedener Open-Source-Modelle lokal und offline via GPT4ALL](https://gpt4all.io/)<br><small>Setzt je nach Modell leistungsfähige Hardware voraus, um zu funktionieren.</small>
 
 ##### Textüberarbeitung
 
@@ -365,7 +374,6 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [GPTZero](https://gptzero.me/)
 - [GPT Radar](https://gptradar.com/)
 - [ZeroGPT Detector](https://www.zerogptdetector.com/)
-- [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
 
 ## Prompt Engineering,<br>Tipps und Weiterbildung
 
