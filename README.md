@@ -1,5 +1,6 @@
 ---
 markmap:
+  embedAssets: true
   initialExpandLevel: 1
   # maxWidth: 300
   colorFreezeLevel: 2
