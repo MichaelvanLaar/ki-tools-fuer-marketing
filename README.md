@@ -284,6 +284,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 ###### Stil-Referenzen
 
 - [Midlibrary](https://www.midlibrary.io/)<br><small>_„The most advanced library of genres, artistic movements,<br>techniques, titles, and artists’ styles for Midjourney AI“_</small>
+- [Beginners Guide to Photorealistic Images in Midjourney](https://www.linkedin.com/posts/rory-flynn-ai_beginners-guide-to-photorealistic-images-activity-7098715018350735361-F3W-?utm_source=share&utm_medium=member_desktop)
 
 ###### Bild → Prompt
 
