@@ -166,6 +166,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - Video → Video
 - Kombination aus Referenz-Video und Bild-/Text-Prompt → Video
 - KI-generierte Aninationen oder Animationen aus KI-generierten Bestandteilen
+- Automatische Übersetzung gesprochener Texte in eine andere Sprache<br>+ Neuvertonung mit geclonter Stimme + automatische lippensynchrone Anpassung des Videos
 - Videobearbeitung per Text-Prompt
 - Automatisierte Videopersonalisierung
 
@@ -201,6 +202,10 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 ##### Bild → Animation
 
 - 😉 [Animated Drawings](https://sketch.metademolab.com/)
+
+##### Automatische Übersetzung gesprochener Texte<br>+ Neuvertonung mit geclonter Stimme<br>+ automatische lippensynchrone Anpassung des Videos
+
+- [HeyGen](https://labs.heygen.com/video-translate)
 
 ##### Videobearbeitung
 
