@@ -254,7 +254,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
   - [Nutzung (inkl. ControlNet) bei RunDiffusion](https://rundiffusion.com/)
   - [Nutzung bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
-- [DALL·E](https://openai.com/dall-e-2)
+- [DALL·E](https://openai.com/dall-e-3)
 - [Adobe Firefly](https://firefly.adobe.com/)
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
 - [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
@@ -301,6 +301,8 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 #### Anwendungsfälle
 
+- Unterstützung bei Ideenfindung und Konzeption
+- Inhaltsstrukturierung
 - Texterstellung
 - Textüberarbeitung und -optimierung
 - Übersetzung
