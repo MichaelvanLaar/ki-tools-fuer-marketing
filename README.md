@@ -248,13 +248,13 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 ##### Bildgenerierung
 
 - [Midjourney](https://www.midjourney.com/)
+- [DALL·E 3](https://openai.com/dall-e-3)
 - [Stable Diffusion](https://stability.ai/stablediffusion)
   - [Ausprobieren bei DreamStudio](https://beta.dreamstudio.ai/)
   - [Ausprobieren bei Clipdrop](https://clipdrop.co/tools)
   - [Nutzung (inkl. ControlNet) bei RunDiffusion](https://rundiffusion.com/)
   - [Nutzung bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
-- [DALL·E](https://openai.com/dall-e-3)
 - [Adobe Firefly](https://firefly.adobe.com/)
 - [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
 - [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
@@ -270,7 +270,8 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
   - [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)<br><small>KI-basiertes Bild-Upscaling bis zu 600%</small>
-- [Upscale.media](https://www.upscale.media/)
+- [Upscale.media](https://www.upscale.media/)<small>KI-basiertes Bild-Upscaling bis zu 400%</small>
+- [Pixelcut Upscaler](https://create.pixelcut.ai/upscaler)<small>KI-basiertes Bild-Upscaling bis zu 400%</small>
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
   - [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
   - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
@@ -312,6 +313,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - Programmcode-Erstellung, -Optimierung, -Debugging
 - Datenanalyse<br><small>(ChatGPT kennt die entsprechenden statistischen Methoden und<br>kann selbstständig ein entsprechendes Analyse-Programm in<br>Python programmieren, Ausführen und die Ergebnisse interpretieren)</small>
 - In Kombination mit anderen Tools (z. B. Websuche, Plugins, APIs):<br>User Interface für nahezu beliebige Anwendungsfälle,<br>die sich mit Sprache und/oder Text abbilden lassen
+- Bei multimodalen Tools: Kombination aus der Ein- und Ausgabe von Texten, Bildern, Audiodaten und Videos möglich
 - Automone Agenten zur selbständigen, mehrstufigen Lösung von komplexen Aufgaben
 - …
 
@@ -321,7 +323,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 - [OpenAI GPT](https://openai.com/gpt-4)
   - [Playground](https://platform.openai.com/playground)
-  - [ChatGPT](https://chat.openai.com/)
+  - [ChatGPT](https://chat.openai.com/)<br><small>in der kostenpflichtigen Version „ChatGPT Plus“ multimodal sowie mit Plugins und Programmcode-Erstellung und -Ausführung on demand in den Fähigkeiten stark erweiterbar</small>
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)<br><small>GPT-4-basiert, nur mit dem Edge-Browser nutzbar.</small>
 - [Claude](https://claude.ai/)<br><small>Derzeit nur in USA und UK verfügbar,<br>kann aber per VPN (z. B. mit Standort UK) verwendet werden.</small>
 - [Bard](https://bard.google.com/)
