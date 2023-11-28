@@ -108,7 +108,7 @@ markmap:
 
 ##### Text → Sprache
 
-- [ElevenLabs](https://beta.elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
+- [ElevenLabs](https://elevenlabs.io/)<br><small>inkl. Voice Cloning</small>
 - [PlayHT](https://play.ht/)<br><small>inkl. Voice Cloning</small>
 - [WondercraftAI](https://www.wondercraft.ai)<br><small>Komplette Podcast-Produktion aus geschriebenem Text</small>
 - [BARK](https://github.com/serp-ai/bark-with-voice-clone)<br><small>inkl. Voice Cloning<br>(Open Source)</small>
@@ -155,8 +155,9 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 ##### Audiobearbeitung
 
-- [DeRoom](https://www.accentize.com/deroom/)<br><small>(kommt in fast allen sepp.med-Videos im Einsatz)</small>
-- [DialogueEnhance](https://www.accentize.com/dialogueenhance/)<br><small>(kommt in fast allen sepp.med-Videos im Einsatz)</small>
+- [dxRevive](https://www.accentize.com/dxrevive/)<br><small>automatische Reparatur von (selbst sehr schlechten) Sprachaufnahmen</small>
+- [DeRoom](https://www.accentize.com/deroom/)<br><small>Entfernung von unerwünschtem Hall und Raumklang</small>
+- [DialogueEnhance](https://www.accentize.com/dialogueenhance/)<br><small>automatische Verbesserung von Sprachaufnahmen</small>
 - [TuneFlow](https://tuneflow.com/)<br><small>kostenlose DAW mit einer Reihe eingebauter KI-Funktionen</small>
 
 ### Video
