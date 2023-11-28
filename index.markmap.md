@@ -272,8 +272,8 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
   - [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)<br><small>KI-basiertes Bild-Upscaling bis zu 600%</small>
-- [Upscale.media](https://www.upscale.media/)<small>KI-basiertes Bild-Upscaling bis zu 400%</small>
-- [Pixelcut Upscaler](https://create.pixelcut.ai/upscaler)<small>KI-basiertes Bild-Upscaling bis zu 400%</small>
+- [Upscale.media](https://www.upscale.media/)<br><small>KI-basiertes Bild-Upscaling bis zu 400%</small>
+- [Pixelcut Upscaler](https://create.pixelcut.ai/upscaler)<br><small>KI-basiertes Bild-Upscaling bis zu 400%</small>
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
   - [Ausprobieren via Google Colab Notebook](https://colab.research.google.com/drive/1hHtcuYAn_twAoSl_i6Trr4DoH70Zg_Oo?usp=sharing)
   - [Eigenen Bilder so umwandeln, dass man sie mit DragGAN bearbeiten kann](https://colab.research.google.com/drive/1lQeo-9p9tWRAnnFAAvQes_zpGdcPJVGj?usp=sharing)
