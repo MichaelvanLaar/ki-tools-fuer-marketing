@@ -258,7 +258,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
   - [Nutzung bei Playground AI](https://playgroundai.com/)
   - [Civitai](https://civitai.com/)<br><small>Marketplatz für nachtrainierte Stable-Diffusion-Modelle</small>
 - [Adobe Firefly](https://firefly.adobe.com/)
-- [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
+- [Adobe Photoshop](https://www.adobe.com/de/products/photoshop.html)
 - [Canva Text zu Bild](https://www.canva.com/apps/text-zu-bild)
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Zyng](https://www.zyngai.com/)<br><small>Spezialtool für Produktbild-Inszenierungen</small>
@@ -268,7 +268,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 ##### Bildbearbeitung
 
-- [Adobe Photoshop Beta](https://www.adobe.com/de/products/photoshop.html)
+- [Adobe Photoshop](https://www.adobe.com/de/products/photoshop.html)
 - [Tracejourney](https://www.tracejourney.com/)<br><small>Midjourney-Bilder (oder auch andere Bilder) direkt<br>in Discord in Vektorgrafiken umwandeln lassen</small>
   - [Nutzung via Discord](https://discord.gg/8ynJNQz3Sm)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)<br><small>KI-basiertes Bild-Upscaling bis zu 600%</small>
@@ -316,7 +316,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - Datenanalyse<br><small>(ChatGPT kennt die entsprechenden statistischen Methoden und<br>kann selbstständig ein entsprechendes Analyse-Programm in<br>Python programmieren, Ausführen und die Ergebnisse interpretieren)</small>
 - In Kombination mit anderen Tools (z. B. Websuche, Plugins, APIs):<br>User Interface für nahezu beliebige Anwendungsfälle,<br>die sich mit Sprache und/oder Text abbilden lassen
 - Bei multimodalen Tools: Kombination aus der Ein- und Ausgabe von Texten, Bildern, Audiodaten und Videos möglich
-- Automone Agenten zur selbständigen, mehrstufigen Lösung von komplexen Aufgaben
+- Autonome Agenten zur selbständigen, mehrstufigen Lösung von komplexen Aufgaben
 - …
 
 #### Tools
@@ -416,4 +416,8 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 
 - [Futurepedia](https://www.futurepedia.io/)
 - [There’s An AI For That](https://theresanaiforthat.com/)
-- [TailwindAI](https://www.tailwindai.com/)
+
+### Newsletter
+
+- [TLDR AI](https://tldr.tech/ai)
+- [Alpha Signal](https://alphasignal.ai/)
