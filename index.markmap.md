@@ -420,4 +420,5 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 ### Newsletter
 
 - [TLDR AI](https://tldr.tech/ai)
+- [The Neuron](https://www.theneurondaily.com/)
 - [Alpha Signal](https://alphasignal.ai/)
