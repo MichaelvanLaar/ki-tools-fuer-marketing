@@ -165,6 +165,7 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 #### Anwendungsfälle
 
 - Text-Prompt → Video
+- Bild → Video
 - Video → Video
 - Kombination aus Referenz-Video und Bild-/Text-Prompt → Video
 - KI-generierte Aninationen oder Animationen aus KI-generierten Bestandteilen
@@ -194,15 +195,17 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - [Pika](https://www.pika.art/)
 - [Kaiber](https://kaiber.ai/)
 - [Teach-O-Matic](https://www.teachomatic.net/)<br><small>_„Create AI how-to videos from text instructions. It runs on Replicate, LangChain, and GPT-4.“_</small>
-- [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren</small>
+- [HeyGen](https://www.heygen.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren, die auch auf Basis von eigenem Video- oder Bildmaterial erstellt werden können</small>
+- [D-ID](https://www.d-id.com/)<br><small>Talking-Head-Videos mit virtuellen Avataren, die auch auf Basis von eigenem Bildmaterial erstellt werden können</small>
 - [Fliki](https://fliki.ai/)<br><small>Videos aus Text-to-Speech-Audiospuren und Stock-Videoclips oder Bildern zusammenbauen</small>
 
 ##### Video → Video
 
 - [Gen-1](https://runwayml.com/ai-magic-tools/gen-1/)<br><small>Modifizierung von Referenz-Videos mithilfe eines Referenz-Bildes oder eines Text-Prompts</small>
 
-##### Bild → Animation
+##### Bild → Video
 
+- [Animate Anyone](https://humanaigc.github.io/animate-anyone/)<br><small>Bisher nur Demos veröffentlicht, Modell noch nicht verfürbar</small>
 - 😉 [Animated Drawings](https://sketch.metademolab.com/)
 
 ##### Automatische Übersetzung gesprochener Texte<br>+ Neuvertonung mit geclonter Stimme<br>+ automatische lippensynchrone Anpassung des Videos
