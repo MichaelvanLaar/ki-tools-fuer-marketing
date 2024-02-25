@@ -131,12 +131,15 @@ markmap:
 
 ##### Musikgenerierung
 
-- [Splash](https://www.splashmusic.com/)
-  - [BeatBot](https://beatbot.fm/)
-  - [Splash Pro](https://pro.splashmusic.com/)
-- [Mubert](https://mubert.com/)
 - [AIVA](https://www.aiva.ai/)
 - [beatoven.ai](https://www.beatoven.ai/)
+- [Boomy](https://boomy.com/)
+- [Loudly](https://www.loudly.com/)
+- [Mubert](https://mubert.com/)
+- [Soundful](https://soundful.com/)
+- [SOUNDRAW](https://soundraw.io/)
+- [Splash Pro](https://pro.splashmusic.com/)
+- [Suno](https://www.suno.ai/)
 - [MusicGen](https://github.com/facebookresearch/audiocraft)
   - [Ausprobieren bei Hugging Face](https://huggingface.co/spaces/facebook/MusicGen)
   - [Ausprobieren bei MusicGen-Looper](https://replicate.com/andreasjansson/musicgen-looper)
@@ -173,7 +176,11 @@ Latent Diffusion Models“</i><br>(Modell leider noch nicht veröffentlicht, abe
 - Videobearbeitung per Text-Prompt
 - Automatisierte Videopersonalisierung
 
-#### Beispiele dafür, was mit Text-to-<br>Video-Tools derzeit machbar ist
+#### Beispiel dafür, was derzeit (= 2024) mit Text-to-<br>Video-Tools machbar ist
+
+- [Demo-Videos, erstelt mit Sora](https://openai.com/sora) (Modell noch nicht öffentlich verfügbar)
+
+#### Beispiele dafür, was bisher (= 2023) mit Text-to-<br>Video-Tools derzeit machbar war
 
 - [„Synthetic Summer“](https://www.privateisland.tv/home/synthetic-summer) (wahrscheinlich mit Gen-2 generiert)
 - [„Cursed Heidi“](https://www.youtube.com/watch?v=0A2-Af5JEWU) (mit Gen-2 generiert)
